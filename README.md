@@ -1,3 +1,6 @@
+https://github.com/pioneo/product-asap/archive/v1.0.2.zip
+
+
 # ASaP-IDE
 
 The ASaP-IDE is an Eclipse-based full-featured Integrated Development Environment (IDE) for developing generic Smart Services based on the [Agent-based Smart Service Platform (ASaP)](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/25477). 
