@@ -37,6 +37,10 @@ Note that there is a known problem with the built-in decompression utility on al
 
 For more information on basic Eclipse installation issues, visit [Eclipsepedia - the Eclipse.org Wik](https://wiki.eclipse.org/Eclipse/Installation). 
 
+### Installation on Mac
+
+The download will be delivered as a disk image file (.dmg). Double click the disk image and drag the containted Asap.app file to your desired destination. 
+
 ## Usage
 
 
