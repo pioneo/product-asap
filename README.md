@@ -14,7 +14,11 @@ First, download the ASaP-IDE via one of the following links:
  * [Windows](https://github.com/pioneo/product-asap/releases/download/v1.0.2/win.zip)
  * [Mac](https://github.com/pioneo/product-asap/releases/download/v1.0.2/asap.dmg)
  
-The download will be delivered as compressed (i.e. a "zip", or ".tar.gz" file. Decompress this file into the directory of your choice (e.g. "c:\asap" on Windows) and ensure you have full Read and Execute permissions. You can optionally create a shortcut of the executable file ("asap.exe" on Windows, or "asap" on Mac).
+### Installation unter Windows
+
+The download will be delivered as compressed file (.zip). Decompress this file into the directory of your choice (e.g. "c:\asap" on Windows) and ensure you have full Read and Execute permissions. You can optionally create a shortcut of the executable file ("asap.exe" on Windows, or "asap" on Mac).
+
+The project structure is as follows: 
 
 ```
 project
