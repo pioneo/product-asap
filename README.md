@@ -31,7 +31,7 @@ project
     │   file022.txt
 ```
 
-Note that there is a known problem with the built-in decompression utility on all current versions of Windows. We recommend that you use a more robust decompression utility such as the open source [7zip](https://www.7-zip.org) when decompressing an Eclipse download. Some people report success when initially decompressing ASaP into a root directory (e.g. c:\) and then moving it to a more appropriate home (e.g. c:\Program Files\ASaP). 
+Note that there is a known problem with the built-in decompression utility on all current versions of Windows. We recommend that you use a more robust decompression utility such as the open source [7zip](https://www.7-zip.org) when decompressing an Eclipse download. Some people report success when initially decompressing and Eclipse-based application into a root directory (e.g. c:\) and then moving it to a more appropriate home (e.g. c:\Program Files\ASaP). 
 
 For more information on basic Eclipse installation issues, visit [Eclipsepedia - the Eclipse.org Wik](https://wiki.eclipse.org/Eclipse/Installation). 
 
