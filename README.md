@@ -12,12 +12,6 @@ First, download the ASaP-IDE via clicking the download buttons on top of the pag
 
 The download will be delivered as compressed (i.e. a "zip", or ".tar.gz" file. Decompress this file into the directory of your choice (e.g. "c:\asap" on Windows) and ensure you have full Read and Execute permissions. You can optionally create a shortcut of the executable file ("asap.exe" on Windows, or "asap" on Mac).
 
-Note that there is a known problem with the built-in decompression utility on all current versions of Windows. We recommend that you use a more robust decompression utility such as the open source [7zip](https://www.7-zip.org) when decompressing an Eclipse download. Some people report success when initially decompressing ASaP into a root directory (e.g. c:\) and then moving it to a more appropriate home (e.g. c:\Program Files\ASaP). 
-
-For more information on basic Eclipse installation issues, visit [Eclipsepedia - the Eclipse.org Wik](https://wiki.eclipse.org/Eclipse/Installation). 
-
-## Usage
-
 ```
 project
 │   README.md
@@ -36,6 +30,14 @@ project
     │   file021.txt
     │   file022.txt
 ```
+
+Note that there is a known problem with the built-in decompression utility on all current versions of Windows. We recommend that you use a more robust decompression utility such as the open source [7zip](https://www.7-zip.org) when decompressing an Eclipse download. Some people report success when initially decompressing ASaP into a root directory (e.g. c:\) and then moving it to a more appropriate home (e.g. c:\Program Files\ASaP). 
+
+For more information on basic Eclipse installation issues, visit [Eclipsepedia - the Eclipse.org Wik](https://wiki.eclipse.org/Eclipse/Installation). 
+
+## Usage
+
+
 
 ## Troubleshooting
 
