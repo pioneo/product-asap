@@ -1,5 +1,3 @@
-https://github.com/pioneo/product-asap/archive/v1.0.2.zip
-
 
 # ASaP-IDE
 
