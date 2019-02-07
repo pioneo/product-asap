@@ -11,32 +11,26 @@ The ASaP-IDE is an Eclipse-based full-featured Integrated Development Environmen
 
 First, download the ASaP-IDE via one of the following links: 
 
- * [Windows](https://github.com/pioneo/product-asap/releases/download/v1.0.2/win.zip)
- * [Mac](https://github.com/pioneo/product-asap/releases/download/v1.0.2/asap.dmg)
+ * [ASaP-IDE for Windows](https://github.com/pioneo/product-asap/releases/download/v1.0.2/win.zip)
+ * [ASaP-IDE Mac](https://github.com/pioneo/product-asap/releases/download/v1.0.2/asap.dmg)
  
 ### Installation on Windows
 
 The download will be delivered as compressed file (.zip). Decompress this file into the directory of your choice (e.g. "c:\asap" on Windows) and ensure you have full Read and Execute permissions. You can optionally create a shortcut of the executable file ("asap.exe" on Windows, or "asap" on Mac).
 
-The project structure is as follows: 
+The relevant project structure of the decompressed file should look as follows: 
 
 ```
-project
-│   README.md
-│   file001.txt    
+win
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───repository
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───eclipse
+│   │   asap.exe
+│   │   ...
+│
+└───config
+    │   Local ASaP Application.launch
 ```
 
 Note that there is a known problem with the built-in decompression utility on all current versions of Windows. We recommend that you use a more robust decompression utility such as the open source [7zip](https://www.7-zip.org) when decompressing an Eclipse download. Some people report success when initially decompressing and Eclipse-based application into a root directory (e.g. c:\) and then moving it to a more appropriate home (e.g. c:\Program Files\ASaP). 
