@@ -83,10 +83,11 @@ After a successful login, you'll need to open the Plug-in Development Perspectiv
 
 ![Selecting Perspective](/screenshots/selectPerspective.png)
 
-To create a new Agent Service Project, open the new New Project Wizard (see screenshot), select the ASaP category and then select the Agent Service Project type. Click Next to proceed within the wizard and provide the further project information. 
+To create a new Agent Service Project, open the new New Project Wizard (see screenshot), select the ASaP category and then select the Agent Service Project type. Click Next to proceed within the wizard and provide further project information. 
 
 ![Creating new Agent Service Project](/screenshots/newProject.png)
 
+That's it. You are ready to go!
 
 ## Troubleshooting
 
