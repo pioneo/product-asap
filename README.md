@@ -77,7 +77,7 @@ When the ASaP-IDE is launched, the first thing you see is a dialog that allows y
 
 ![Selecting Workspace](/screenshots/selectWorkspace.png)
 
-After the workspace selection, you will be prompted with your specific cloud login. This login is required  
+After the workspace selection, you will be prompted with a login dialog to your personal ASaP-Cloud. This login is required to use the ASaP-IDE. In case you haven't any cloud login data, feel free to [contact](mailto:info@pioneo.de) us. 
 
 ![Selecting Perspective](/screenshots/selectPerspective.png)
 
