@@ -79,9 +79,11 @@ When the ASaP-IDE is launched, the first thing you see is a dialog that allows y
 
 After the workspace selection, you will be prompted with a login dialog to your personal ASaP-Cloud. This login is required to use the ASaP-IDE. In case you haven't any cloud login data, feel free to [contact](mailto:info@pioneo.de) us. 
 
+After a successful login, you'll need to open the Plug-in Development Perspective (see screenshot).  
+
 ![Selecting Perspective](/screenshots/selectPerspective.png)
 
-![Loaded ASaP-IDE](/screenshots/readyToGo.png)
+To create a new Agent Service Project, open the new New Project Wizard (see screenshot), select the ASaP category and then select the Agent Service Project type. Click Next to proceed within the wizard and provide the further project information. 
 
 ![Creating new Agent Service Project](/screenshots/newProject.png)
 
