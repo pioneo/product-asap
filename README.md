@@ -11,8 +11,9 @@ The ASaP-IDE is an Eclipse-based full-featured Integrated Development Environmen
 
 First, download the ASaP-IDE via one of the following links: 
 
- * [ASaP-IDE for Windows](https://github.com/pioneo/product-asap/releases/download/v1.0.2/win.zip)
- * [ASaP-IDE Mac](https://github.com/pioneo/product-asap/releases/download/v1.0.2/asap.dmg)
+### Latest (Version 1.0.2)
+ * Windows [64-bit](https://github.com/pioneo/product-asap/releases/download/v1.0.2/win.zip)
+ * Mac [64-bit](https://github.com/pioneo/product-asap/releases/download/v1.0.2/asap.dmg)
  
 ### Installation on Windows
 
@@ -39,7 +40,7 @@ For more information on basic Eclipse installation issues, visit [Eclipsepedia -
 
 ### Installation on Mac
 
-The download will be delivered as a disk image file (.dmg). Double click the disk image and drag the containted Asap.app file to your desired destination. 
+The download will be delivered as a disk image file (.dmg). Double click the disk image to make its content availabe. Drag the contained application into destination folder (e.g. /Applications). 
 
 ## Usage
 
