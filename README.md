@@ -6,7 +6,7 @@ The ASaP-IDE is an Eclipse-based full-featured Integrated Development Environmen
 ## Requirements
  * Java 8 or newer (Note that a full JDK needs to be installed, not just a JRE).
  * The current version of the ASaP-IDE is based on an 64-bit Eclipse, so it's recommended to install a 64-bit JDK.
- * Your cloud login to your personal ASaP-Cloud.
+ * A cloud login to your personal ASaP-Cloud.
 
 ## Installation
 
