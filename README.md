@@ -6,6 +6,7 @@ The ASaP-IDE is an Eclipse-based full-featured Integrated Development Environmen
 ## Requirements
  * Java 8 or newer (Note that a full JDK needs to be installed, not just a JRE).
  * The current version of the ASaP-IDE is based on an 64-bit Eclipse, so it's recommended to install a 64-bit JDK.
+ * Your cloud login to your personal ASaP-Cloud.
 
 ## Installation
 
@@ -68,7 +69,7 @@ content
 * "Local ASaP Application.launch": A minimal launch configuration to test the developed services in a local ASaP Application within the ASaP-IDE. 
 
 
-## Usage
+## Quick Start
 
 To start the ASaP-IDE double click the executable file "asap.exe" for Windows or the application bundle "Asap.app" on Mac. 
 
@@ -76,7 +77,7 @@ When the ASaP-IDE is launched, the first thing you see is a dialog that allows y
 
 ![Selecting Workspace](/screenshots/selectWorkspace.png)
 
-![Cloud Login](/screenshots/login.png)
+After the workspace selection, you will be prompted with your specific cloud login. This login is required  
 
 ![Selecting Perspective](/screenshots/selectPerspective.png)
 
