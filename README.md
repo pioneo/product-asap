@@ -74,7 +74,7 @@ To start the ASaP-IDE double click the executable file "asap.exe" for Windows or
 
 When the ASaP-IDE is launched, the first thing you see is a dialog that allows you to select where the workspace will be located. The workspace is the directory where your work will be stored. This workspace directory is used as the default content area for your projects as well as for holding any required metadata. 
 
-![GitHub Logo](/images/logo.png)
+![Selecting workspace](/screenshots/selectWorkspace.png)
 
 
 
